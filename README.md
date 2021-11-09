@@ -8,7 +8,7 @@
 
 Essa api foi construida com intuito de transformar digitalmente as pautas e votações de um conselho.
 
-As principais tecnologias empregadas nesta API sã0:
+As principais tecnologias empregadas nesta API são:
 
 - Spring boot 2.5.6
 
