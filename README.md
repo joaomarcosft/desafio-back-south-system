@@ -6,7 +6,7 @@
 
 ### About me
 
-Essa api foi contruida com intuito de transformar digitalmente as pautas e votações de um conselho.
+Essa api foi construida com intuito de transformar digitalmente as pautas e votações de um conselho.
 
 As principais tecnologias empregadas nesta API sã0:
 
